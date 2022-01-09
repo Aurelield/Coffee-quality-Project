@@ -10,9 +10,8 @@ Since 1996, Coffee Quality Institute (CQI) has worked to improve the quality of 
 
 The database used for the analysis was created by scrapping the website of the CQI in January 2018 and contains a reference for each sample sent for grading and analysis from its foundation. This means that each line of the database represents one sample sent by a coffee producer at a given time. 
 
-## Dataset limits
+## Data limits
 
-In order to get a sample graded the coffee producer needs to make a payment to the CQI. One of the main questions that arise from this practice is to wonder what are the benefits for a coffee producer to be graded. Is the farmer seeking a quality seal? Or does the farmer maybe need to reach a minimum grading to be eligible to be considered for export? These considerations make us believe that the analysis results need to be considered wisely.
 
 ## Dataset used
 
@@ -33,6 +32,12 @@ One column = one categorical or numeric value
 ## Codebook
 
 A codebook has been created in order to understand some labels of the dataset.
+
+## going further...
+
+### ...and in a larger way
+In order to get a sample graded the coffee producer needs to make a payment to the CQI. One of the main questions that arise from this practice is to wonder what are the benefits for a coffee producer to be graded. Is the farmer seeking a quality seal? Or does the farmer maybe need to reach a minimum grading to be eligible to be considered for export? These considerations make us believe that the analysis results need to be considered wisely.
+
 
 ## Trello dashboard
 
