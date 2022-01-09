@@ -12,6 +12,9 @@ The database used for the analysis was created by scrapping the website of the C
 
 ## Data limits
 
+Our analysis raises some limits:
+-Unbalanced representativity in samples given we have more arabica and less robusta (two main types of coffee beans)
+-difficulty in understanding the meaning of some column names (specific to coffee)
 
 ## Dataset used
 
