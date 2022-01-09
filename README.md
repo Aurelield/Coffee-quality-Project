@@ -32,10 +32,10 @@ One column = one categorical or numeric value
 
 ## Codebook
 
-
+A codebook has been created in order to understand some labels of the dataset.
 
 ## Trello dashboard
 
 https://trello.com/b/QmLn78vn/coffee-quality-data-analysis
 
-Codebook to put in it 
+
