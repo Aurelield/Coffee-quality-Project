@@ -40,12 +40,21 @@ Our analysis raises some limits:
 
 A codebook has been created in order to understand some labels of the dataset.
 
+## Tableau (public)
+
+https://public.tableau.com/views/Coffequality/Harvestyear?:language=es-ES&publish=yes&:display_count=n&:origin=viz_share_link
+
 ## Going further
 
+Merging with other datasets, our analysis could answer other relevant questions:
+- Why are less bags sent for analysis year after year?
+- Why are sweetness and uniformity (quality measures) not considered as relevant variables for the total cup points?
+- Why is 2016 the best year of harvest ? What happened during the other years ? 
 
 ### In a larger way...
 
-In order to get a sample graded the coffee producer needs to make a payment to the CQI. One of the main questions that arise from this practice is to wonder what are the benefits for a coffee producer to be graded. Is the farmer seeking a quality seal? Or does the farmer maybe need to reach a minimum grading to be eligible to be considered for export? These considerations make us believe that the analysis results need to be considered wisely.
+In order to get a sample graded the coffee producer needs to make a payment to the CQI. 
+One of the main questions that arise from this practice is to wonder what are the benefits for a coffee producer to be graded. Is the farmer seeking a quality seal? Or does the farmer maybe need to reach a minimum grading to be eligible to be considered for export? These considerations make us believe that the analysis results need to be considered wisely.
 
 
 ## Trello dashboard
