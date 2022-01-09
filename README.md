@@ -11,10 +11,13 @@ Since 1996, Coffee Quality Institute (CQI) has worked to improve the quality of 
 The database used for the analysis was created by scrapping the website of the CQI in January 2018 and contains a reference for each sample sent for grading and analysis from its foundation. This means that each line of the database represents one sample sent by a coffee producer at a given time. 
 
 ## Data limits
+First of all, our analysis is limited to the given dataset and background informations
 
 Our analysis raises some limits:
 -Unbalanced representativity in samples given we have more arabica and less robusta (two main types of coffee beans)
 -difficulty in understanding the meaning of some column names (specific to coffee)
+- Website suggests minimum grading needs to be 80 to be certified, however analyst suggests there are countries with a mean below the target
+- Our analysis can be biased since 
 
 ## Dataset used
 
@@ -37,9 +40,11 @@ Our analysis raises some limits:
 
 A codebook has been created in order to understand some labels of the dataset.
 
-## Going further...
+## Going further
 
-### ...and in a larger way
+
+### In a larger way...
+
 In order to get a sample graded the coffee producer needs to make a payment to the CQI. One of the main questions that arise from this practice is to wonder what are the benefits for a coffee producer to be graded. Is the farmer seeking a quality seal? Or does the farmer maybe need to reach a minimum grading to be eligible to be considered for export? These considerations make us believe that the analysis results need to be considered wisely.
 
 
