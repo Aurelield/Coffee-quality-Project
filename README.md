@@ -21,12 +21,13 @@ The database used for the analysis was created by scrapping the website of the C
 - Initially 44 columns, 1339 rows
 
 ### Inside the dataset
+
 - Quality measures such as Flavor, Aroma, Body
 - Bean metadata such as processing method, species
 - Farm metadata such as country of origin and farm name
 
-One row = one 2kg sample of green coffee
-One column = one categorical or numeric value
+- One row = one 2kg sample of green coffee
+- One column = one categorical or numeric value
 
 
 ## Codebook
