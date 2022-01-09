@@ -23,31 +23,18 @@ Initially 44 columns, 1339 rows
 
 ### Inside the dataset
 - Quality measures such as Flavor, Aroma, Body
-- bean metadata
-- Farm metadata
+- Bean metadata such as processing method, species
+- Farm metadata such as country of origin and farm name
+
 One row = one 2kg sample of green coffee
 One column = one categorical or numeric value
 
 
+## Codebook
 
-Bean Metadata
 
-Processing Method
-Color
-Species (arabica / robusta)
 
-Farm Metadata
-
-Owner
-Country of Origin
-Farm Name
-Lot Number
-Mill
-Company
-Altitude
-Region
-
-Trello dashboard
+## Trello dashboard
 
 https://trello.com/b/QmLn78vn/coffee-quality-data-analysis
 
