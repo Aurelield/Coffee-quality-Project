@@ -16,7 +16,7 @@ Our analysis raises some limits:
 - Unbalanced representativity in samples given we have more arabica and less robusta (two main types of coffee beans)
 - Difficulty in understanding the meaning of some column names (specific to coffee)
 - Website suggests minimum grading needs to be 80 to be certified, however analyst suggests there are countries with a mean below the target
-- Our analysis can be biased since 
+- Our analysis can be biased since the grade will depend on individual perception and taste of each expert regarding each coffee sample.
 
 ## Dataset used
 
