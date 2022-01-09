@@ -15,10 +15,10 @@ The database used for the analysis was created by scrapping the website of the C
 
 ## Dataset used
 
--Dataset downloaded from Kaggle about coffee quality (https://www.kaggle.com/volpatto/coffee-quality-database-from-cqi)
--Data gathered from the Coffee Quality Institute (CQI) in January 2018
--3 csv files
--Initially 44 columns, 1339 rows
+- Dataset downloaded from Kaggle about coffee quality (https://www.kaggle.com/volpatto/coffee-quality-database-from-cqi)
+- Data gathered from the Coffee Quality Institute (CQI) in January 2018
+- 3 csv files
+- Initially 44 columns, 1339 rows
 
 ### Inside the dataset
 - Quality measures such as Flavor, Aroma, Body
