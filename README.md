@@ -25,7 +25,8 @@ Our analysis raises some limits:
 - 3 csv files
 - Initially 44 columns, 1339 rows
 
-### Inside the dataset
+
+#### Inside the dataset
 
 - Quality measures such as Flavor, Aroma, Body
 - Bean metadata such as processing method, species
@@ -33,7 +34,8 @@ Our analysis raises some limits:
 
 - One row = one 2kg sample of green coffee
 - One column = one categorical or numeric value
-
+- Interest in mainly quality measures: flavor , aroma, sweetness, body, acicity
+- Interesdt also in metadata such as country of origin, harvest year and processing method
 
 ## Codebook
 
