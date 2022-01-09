@@ -33,7 +33,7 @@ One column = one categorical or numeric value
 
 A codebook has been created in order to understand some labels of the dataset.
 
-## going further...
+## Going further...
 
 ### ...and in a larger way
 In order to get a sample graded the coffee producer needs to make a payment to the CQI. One of the main questions that arise from this practice is to wonder what are the benefits for a coffee producer to be graded. Is the farmer seeking a quality seal? Or does the farmer maybe need to reach a minimum grading to be eligible to be considered for export? These considerations make us believe that the analysis results need to be considered wisely.
