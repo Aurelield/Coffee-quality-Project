@@ -53,7 +53,7 @@ https://public.tableau.com/views/Coffequality/Harvestyear?:language=es-ES&publis
 Merging with other datasets, our analysis could answer other relevant questions:
 - Why are less bags sent for analysis year after year?
 - Why are sweetness and uniformity (quality measures) not considered as relevant variables for the total cup points? (see EDA)
-- Why is 2016 the best year of harvest ? What happened during the other years ? 
+- Why are certain years much better in terms of harvest than others? 
 
 ### In a larger way...
 
